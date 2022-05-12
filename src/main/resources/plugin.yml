@@ -1,0 +1,14 @@
+name: CreativePlayerBuildingSupport
+version: '${version}'
+main: com.yalois.plugin.creativeplayerbuildingsupport.CreativePlayerBuildingSupport
+api-version: 1.18
+authors: [ Yalois ]
+description: 属于创造玩家的插件
+website: www.sky233.top
+commands:
+  cpma:
+    description: 管理员指令
+    usage: cpma [参数]
+    permission: cpma.use
+  cpm:
+    description: 建筑玩家指令

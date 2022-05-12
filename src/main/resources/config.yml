@@ -1,0 +1,35 @@
+#是否允许飞行
+allowFlight: true
+#物品数据,不要动
+ItemData:
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2975
+    type: WHITE_TERRACOTTA
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2975
+    type: ORANGE_TERRACOTTA
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2975
+    type: MAGENTA_TERRACOTTA
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2975
+    type: LIGHT_BLUE_TERRACOTTA
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2975
+    type: YELLOW_TERRACOTTA
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2975
+    type: LIME_TERRACOTTA
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2975
+    type: PINK_TERRACOTTA
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2975
+    type: GRAY_TERRACOTTA
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2975
+    type: LIGHT_GRAY_TERRACOTTA
+#允许的世界
+allowWorlds:
+#允许的玩家
+Players:
